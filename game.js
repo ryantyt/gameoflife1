@@ -17,7 +17,7 @@ function createGrid(cols, rows) {
 
 // Setup
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(800, 500);
     // What is width and height they aren't referenced anywhere else
     cols = width / resolution;
     rows = height / resolution;
